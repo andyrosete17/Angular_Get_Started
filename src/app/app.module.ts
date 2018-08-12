@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ProductListComponent } from './products/products-list.component';
 import { ConvertToSpacesPipe } from './products/convert-to-spaces.pipe';
 
+
 @NgModule({
   declarations: [
     AppComponent,
